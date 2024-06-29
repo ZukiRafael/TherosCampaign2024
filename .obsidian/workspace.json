@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e94e8ac689b0b8c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gods intro.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gods intro.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gods intro.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3e09404cd28d067",
+  "active": "e94e8ac689b0b8c9",
   "lastOpenFiles": [
-    "gods intro.md"
+    "gods intro.md",
+    "README.md"
   ]
 }
