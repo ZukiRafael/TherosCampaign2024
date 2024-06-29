@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "20a20156a926b327",
+        "id": "4b8b1085725846a8",
         "type": "tabs",
         "children": [
           {
-            "id": "e3e09404cd28d067",
+            "id": "54c7fd863335a670",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gods intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e94e8ac689b0b8c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Characters/Arthur Kidemonas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Characters/Arthur Kidemonas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Characters/Arthur Kidemonas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Characters/Arthur Kidemonas.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,9 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e94e8ac689b0b8c9",
+  "active": "54c7fd863335a670",
   "lastOpenFiles": [
-    "gods intro.md",
-    "README.md"
+    "Characters/Raf character concepts.md",
+    "Characters/Arthur Kidemonas.md",
+    "Questions.md",
+    "Universe notes/Gods/Cacophony.md",
+    "Universe notes/Gods/Purphoros.md",
+    "Universe notes/Gods/Thassa.md",
+    "Universe notes/Gods/Iroas.md",
+    "Universe notes/Gods/Karametra.md",
+    "Universe notes/Gods/Klothys.md",
+    "Universe notes/Gods/Kruphix.md",
+    "Universe notes/Gods/Mogis.md",
+    "Universe notes/Gods/Xenagos.md",
+    "Universe notes/Gods/Atheros.md",
+    "Universe notes/Gods/Ephara.md",
+    "Universe notes/Gods/Pharika.md",
+    "README.md",
+    "Universe notes/Gods/Phenax.md",
+    "Universe notes/Gods/Nylea.md",
+    "Universe notes/Gods/Heliod.md",
+    "Universe notes/Gods/Erebos.md",
+    "Sessions/Session 0.md",
+    "Universe notes/Gods",
+    "Universe notes",
+    "Sessions",
+    "Characters"
   ]
 }
